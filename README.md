@@ -12,3 +12,5 @@ The dataset contains information on over 50,000 diamonds, with the majority of d
 3. Model Evaluation: Assess the model's performance using appropriate metrics and validate its predictions.
 
 ## License
+
+This project is licensed under the Apache-2.0 license. See the LICENSE file for details.
